@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/build.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/run.png</file>
+        <file>icons/step.png</file>
+        <file>codes/singlylinkedlist.c</file>
+        <file>codes/prebinarytree.c</file>
+        <file>codes/inbinarytree.c</file>
+        <file>codes/postbinarytree.c</file>
+        <file>codes/avltree.c</file>
+        <file>codes/stack.c</file>
+        <file>codes/queue.c</file>
+        <file>codes/dfs.c</file>
+        <file>codes/bfs.c</file>
+        <file>codes/dijkstra.c</file>
+        <file>codes/btree.c</file>
+        <file>codes/binarysearch.c</file>
+        <file>codes/bubblesort.c</file>
+        <file>codes/quicksort.c</file>
+        <file>codes/floyd.c</file>
+        <file>codes/heapsort.c</file>
+        <file>codes/bucketsort.c</file>
+    </qresource>
+</RCC>
